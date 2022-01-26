@@ -6,5 +6,4 @@ I am Honeta, an undergraduate student majoring in electronic information enginee
 - 🌱 I’m currently learning high performance computing, algorithm and database.
 - 📫 How to reach me: mail to honeta@qq.com
 
-[![Honeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honeta&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honeta&count_private=true&exclude_repo=honeta.site,husthxj.top&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Honeta's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honeta&count_private=true&exclude_repo=honeta.site,husthxj.top&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
