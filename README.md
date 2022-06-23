@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Honeta, an undergraduate student majoring in electronic information engineering at Huazhong University of Science and Technology. My site is https://honeta.site/.
+I am Honeta, an undergraduate student majoring in Computer Science and Technology at Huazhong University of Science and Technology. My site is https://honeta.site/.
 
 - 🔭 I'm currently preparing for a summer internship at Tencent WXG.
 - 🌱 I'm learning Operating System, High Performance Computing and Distributed System.
