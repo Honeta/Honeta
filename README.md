@@ -2,7 +2,7 @@
 
 I am Honeta, an undergraduate student majoring in Computer Science and Technology at Huazhong University of Science and Technology. My site is https://honeta.site/.
 
-- 🔭 I was previously intern at Tencent Wechat Infrastructure Center.
+- 🔭 I am currently an intern in RisingWave Labs.
 - 🌱 I'm learning High Performance Computing and Algorithm.
 - 📫 How to reach me: mail to honeta@qq.com
 
