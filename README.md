@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Honeta, an undergraduate student majoring in Computer Science and Technology at Huazhong University of Science and Technology. My site is https://honeta.site/.
+I am Honeta, an undergraduate student majoring in Computer Science at Huazhong University of Science and Technology. My site is https://honeta.site/.
 
 - 🔭 I am currently an intern in RisingWave Labs.
 - 🌱 I'm learning High Performance Computing and Algorithm.
