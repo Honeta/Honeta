@@ -2,7 +2,7 @@
 
 I am Honeta, an undergraduate student majoring in Computer Science at Huazhong University of Science and Technology. My site is https://honeta.site/.
 
-- 🔭 I am currently an intern in Sixie Capital.
+- 🔭 I am currently a Trading System Developer Intern in Sixie Capital.
 - 🌱 I'm learning quantitative trading system development.
 - 📫 How to reach me: mail to honeta@qq.com
 
